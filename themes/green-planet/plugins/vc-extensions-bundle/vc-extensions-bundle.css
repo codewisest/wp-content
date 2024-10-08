@@ -1,0 +1,85 @@
+/* WPBakery Page Builder Extension Bundle
+----------------------------------------------------------------- */
+
+/* Tooltip */
+.tooltipster-base.tooltipster-light {
+	border: none;
+	border-radius: 0;
+	box-shadow: 0 0 14px rgba(0, 0, 0, 0.3);
+}
+.tooltipster-base.tooltipster-light .tooltipster-content {
+	padding: 1em 1em;
+	border: none;
+	background-color: #13162b;
+	color: #fff;
+}
+.tooltipster-base.tooltipster-light .tooltipster-arrow span {
+	border-top-color: #13162b !important;
+}
+.cq-hotspots .hotspot-item a.cq-tooltip span {
+	width: 10px;
+	height: 10px;
+	margin: -5px 0 0 -5px;
+}
+
+.cq-infobox{
+	-webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    border-radius: 0 !important;
+    border: none !important;
+    width: 242px !important;
+    height: 60px !important;
+    margin-top: -102px !important;
+        margin-left: -122px !important;
+}
+
+.cq-draggable-container{
+    padding: 140px 0 70px 0 !important;	
+}
+
+.cq-infobox:before{
+	content: none !important;
+}
+
+.cq-infobox:after{
+    border-width: 10px 10px 0 !important;
+    bottom: -10px !important;
+    left: 110px !important;
+}
+
+.cq-carouselcontent{
+	font-size: 1rem !important;
+	text-align: center;
+}
+
+.slick-slider{
+	margin-bottom: 0 !important;
+}
+
+.cq-carouselcontent{
+	height: auto !important;
+}
+
+.cq-innerbox{
+	padding: 1.15em 1em;
+}
+
+.empty_icon .cq-highlight-container.icon .cq-highlight{
+	width: 16px !important;
+    height: 16px !important;
+    -webkit-border-radius: 50% !important;
+    border-radius: 50% !important;
+}
+
+.empty_icon .cq-draggable-slider,
+.empty_icon .cq-draggable-stripe{
+	height: 5px;
+}
+
+.empty_icon .cq-barcontainer{
+    margin-top: 0px
+}
+
+.cq-highlight-container .cq-highlight-label{
+	font-size: 0.875rem !important;
+}

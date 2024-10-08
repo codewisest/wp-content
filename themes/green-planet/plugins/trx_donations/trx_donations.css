@@ -1,0 +1,7 @@
+/* ThemeREX Donations styles
+----------------------------------------------------------------- */
+
+.post-type-archive-donation .page-header,
+.tax-donation_category .page-header {
+	display: none;
+}
