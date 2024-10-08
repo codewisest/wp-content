@@ -5,7 +5,7 @@
 # "mu-plugins", "plugins", "themes" directory
 
 # ignore these plugins
-
+/plugins/debug-bar
 # ignore specific themes
 
 # ignore node dependency directories
